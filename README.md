@@ -27,5 +27,5 @@ Witch target to clone?
 testingTest
 ```
 
-## 🐒 Bool! You did it.
+## 🐒 Boom! You did it.
 
