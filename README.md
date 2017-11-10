@@ -14,13 +14,22 @@ Then run:
 
 $ sudo ruby cloneTarget.rb
 
+And follow terminal flow:
+
 Project path:
+
 testingTest.xcodeproj
+
 New target name:
+
 newTargetName
+
 New target bundle identifer
+
 newTargetBundleIdentifer
+
 Witch target to clone?
+
 testingTest
 
 Boom! you did it.
