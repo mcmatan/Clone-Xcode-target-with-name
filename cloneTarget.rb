@@ -39,6 +39,7 @@ end
 
 target.build_configurations.each do |config|
   config.build_settings['PRODUCT_BUNDLE_IDENTIFIER'] = bundleIdentifier
+  config.build_settings['PRODUCT_NAME'] = "$(TARGET_NAME)"
 end
 
 # copy build_phases
