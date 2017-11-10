@@ -2,7 +2,7 @@
 Clone Xcode target to new target, with a new name and bundle identifier, using Ruby and "Xcodeproj"
 
 
-How to use:
+## How to use?
 
 First install xcodeproj
 
@@ -16,20 +16,16 @@ $ sudo ruby cloneTarget.rb
 
 And follow terminal flow:
 
+```bash
 Project path:
-
 testingTest.xcodeproj
-
 New target name:
-
 newTargetName
-
 New target bundle identifer
-
 newTargetBundleIdentifer
-
 Witch target to clone?
-
 testingTest
+```
 
-Boom! you did it.
+## 🐒 Bool! You did it.
+
